@@ -13,6 +13,7 @@ did well/better in the Copa Del Rey Cup and the Champions League competitions,
 while Real Madrid FC did better/well in Primera Division (La Liga) and the 
 SuperCopa De Espana competitions, we also found out that their matches have 
 high chances of playing over 1.5 and over 2.5.
+
 Keywords: Markov Chain Analysis, FC Barcelona, Real Madrid FC, Chances, Proba
 bility, Winning, Drawing, Losing, Over/Under 1.5, Over/Under 2.5, Matches, Tr
 ansition, Matrix, Transition Diagram.
