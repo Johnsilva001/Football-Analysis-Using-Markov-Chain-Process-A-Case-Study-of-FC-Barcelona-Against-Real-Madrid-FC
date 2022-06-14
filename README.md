@@ -1,4 +1,4 @@
-# Football-Analysis-Using-Markov-Chain-Process-A-Case-Study-of-FC-Barcelona-Against-Real-Madrid-FC-
+# Football-Analysis-Using-Markov-Chain-Process (A-Case-Study-of-FC-Barcelona-Against-Real-Madrid-FC)
 ABSTRACT: Markov Chain Analysis, a case study of FC Barcelona vs Real Madrid 
 FC was performed. Some important cases of this research such as the Primera 
 Division (La Liga), Copa Del Rey, SuperCopa De Espana and the Champions League 
